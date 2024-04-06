@@ -11,7 +11,7 @@ input[type="button"],input[type="submit"],input[type="reset"]{cursor:pointer;}
 iframe{ display:block; } .clearfix:after { visibility:hidden; display:block; font-size:0; content:" "; clear:both; height:0; } .clearfix { zoom:1; }
 /*正文样式*/
 * { margin: 0px; padding: 0px; }
-body { background: url("../images/微信图片_20240406202143.jpg")  top/100%; position: fixed }
+body { background: url("../images/微信图片_20240406202947.jpg")  top/100%; position: fixed }
 img.gb { position: fixed; /*固定*/ left: 45%; top: 0px;
     -webkit-animation: bd 5s ease-in-out infinite; /*动画名称 时间 运动速度 永远无限*/ }
 
